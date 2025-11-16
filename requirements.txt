@@ -1,0 +1,13 @@
+# Genesis Game Dependencies
+# Python 3.8+
+
+# GUI Framework
+tkinter>=3.8  # Usually comes with Python
+
+# Optional: Audio support
+pygame>=2.0.0  # For audio effects (optional)
+
+# Development tools
+pytest>=7.0.0  # For testing
+pylint>=2.0.0  # For code analysis
+black>=22.0.0  # For code formatting
